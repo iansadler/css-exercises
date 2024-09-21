@@ -1,0 +1,19 @@
+.even {
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  background-color: hsl(357, 75%, 80%);
+}
+
+#el-2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#el-4 {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: rgb(170, 255, 170);
+}
+
+.mid {
+  font-size: 24px;;
+}
